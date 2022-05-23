@@ -46,7 +46,6 @@ source venv/bin/activate
 
 python3 app.py"
 
-
 # open all localhost ports in browser
 # open http://localhost:4040
 open https://localhost:3030
