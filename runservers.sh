@@ -22,10 +22,10 @@ npm run serve"
 
 # Auth0 Pug JS Web App 
 
-# Node.js
-# ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/auth0-express-node-pug-app/auth0-express-pug-sample 
+Node.js
+ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/auth0-express-node-pug-app/auth0-express-pug-sample 
 
-# npm run dev"
+npm run dev"
 
 # Front End
 ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/auth0-express-node-pug-app/auth0-express-pug-sample 
