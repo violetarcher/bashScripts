@@ -19,6 +19,12 @@ ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/02-calling-an-api
 
 npm run serve"
 
+#Auth0 React Redirect with custom Branding template & domain app
+ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/sample-01
+
+npm run dev"
+
+
 
 # Auth0 Pug JS Web App 
 
