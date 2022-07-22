@@ -25,20 +25,23 @@ ttab eval "cd ~/Documents/CustomApps/samples-js-react/okta-hosted-login
 npm start"
 
 #Auth0 Simple Redirect SPA (Vue) - port 3000
-ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/02-calling-an-api 
+# ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/02-calling-an-api 
 
-npm run serve"
+# npm run serve"
 
 #Auth0 React Redirect with custom Branding template & domain app - port 3002
 ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/sample-01
 
 npm run dev"
 
+#Auth0 React with Healthcare Theme
+ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/react-progressive-profiling
 
+npm start"
 
 # Auth0 Pug JS Web App - localhost 4040
 
-Node.js
+# Node.js
 ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/auth0-express-node-pug-app/auth0-express-pug-sample 
 
 npm run dev"
