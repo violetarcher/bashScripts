@@ -39,6 +39,12 @@ ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/react-progressive-p
 
 npm start"
 
+#Auth0 Private-scoped API (can call from react-progressive-profiling UI - origin is 3010 for the API)
+ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/authorization-api-react-progressive
+
+npm start"
+
+
 # Auth0 Pug JS Web App - localhost 4040
 
 # Node.js
