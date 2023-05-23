@@ -63,20 +63,20 @@ ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/auth0-express-node-
 npm start"
 
 # Start Admin demo from Zartan - port 8666
-ttab eval "cd ~/Documents/zartan/zartan
+# ttab eval "cd ~/Documents/zartan/zartan
 
-python3 -m venv venv
+# python3 -m venv venv
 
-source venv/bin/activate
+# source venv/bin/activate
 
-python3 app.py"
+# python3 app.py"
 
 # open all localhost ports in browser
 # open http://localhost:4040
 open https://localhost:3030
 open http://localhost:8080
 open http://localhost:3000
-open http://localhost:8666
+# open http://localhost:8666
 open http://localhost:3002
 open http://localhost:5001
 
