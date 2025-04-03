@@ -30,9 +30,9 @@ All SERVERS STARTING...
 # npm run serve"
 
 #Auth0 React Redirect with custom Branding template & domain app - port 3002
-# ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/sample-01
+ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/sample-01
 
-# npm run dev"
+npm run dev"
 
 #Auth0 React with Healthcare Theme
 ttab eval "cd ~/Documents/Auth0CustomApps/PublicCloudTenants/react-progressive-profiling
@@ -76,7 +76,7 @@ npm run dev"
 
 # open all localhost ports in browser
 # open http://localhost:4040
-open https://localhost:3030
+open https://localhost:4040
 # open http://localhost:8080
 open http://localhost:3000
 # open http://localhost:8666
